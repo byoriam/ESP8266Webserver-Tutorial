@@ -3,6 +3,7 @@
 Quelldaten zu BitBastelei #335 - ESP8266 Webserver (AJAX/SPIFFS) für China-Fliegenfänger
 
 [![BitBastelei #335](http://img.youtube.com/vi/KsITax7SVDw/0.jpg)](http://www.youtube.com/watch?v=KsITax7SVDw "BitBastelei #335 - ESP8266 Webserver (AJAX/SPIFFS) für China-Fliegenfänger")
+
 [(https://www.youtube.com/watch?v=KsITax7SVDw)](https://www.youtube.com/watch?v=KsITax7SVDw)
 
 1. ESP8266 mit dem WLAN verbinden
