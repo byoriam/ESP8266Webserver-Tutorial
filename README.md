@@ -3,6 +3,7 @@
 Quelldaten zu BitBastelei #335 - ESP8266 Webserver (AJAX/SPIFFS) für China-Fliegenfänger
 
 [![BitBastelei #335](http://img.youtube.com/vi/KsITax7SVDw/0.jpg)](http://www.youtube.com/watch?v=KsITax7SVDw "BitBastelei #335 - ESP8266 Webserver (AJAX/SPIFFS) für China-Fliegenfänger")
+[(https://www.youtube.com/watch?v=KsITax7SVDw)](https://www.youtube.com/watch?v=KsITax7SVDw)
 
 1. ESP8266 mit dem WLAN verbinden
 2. Einfacher Zugriff auf den ESP8266: MDNS
@@ -16,3 +17,4 @@ Quelldaten zu BitBastelei #335 - ESP8266 Webserver (AJAX/SPIFFS) für China-Flie
 * mosquitto: Programmbeispiel auf Basis der gezeigten Codes mit JQuery und Bootstrap
 
 Basiert auf Tutorials von [Projetsdiy](https://github.com/projetsdiy/ESP8266-Webserver-Tutorials).
+
